@@ -1,5 +1,9 @@
 # Credit Card Fraud Detection using Machine Learning
+<img width="505" alt="Screen Shot 2023-04-07 at 6 13 32 PM" src="https://user-images.githubusercontent.com/62276687/230690997-93fd0cbe-298a-42be-aa61-dcfc723b2477.png">
+<img width="904" alt="Screen Shot 2023-04-07 at 6 13 58 PM" src="https://user-images.githubusercontent.com/62276687/230691003-54c11607-fee2-48f5-9ae8-9c27d5633bfc.png">
+<img width="1118" alt="Screen Shot 2023-04-07 at 6 14 41 PM" src="https://user-images.githubusercontent.com/62276687/230691006-3c05d732-df35-440c-8756-9553676fac8e.png">
 
+<img width="1118" alt="Screen Shot 2023-04-07 at 6 15 08 PM" src="https://user-images.githubusercontent.com/62276687/230691009-6ae1af63-7259-4afb-8c58-87cc12f952bc.png">
 
 
 ## Getting started
